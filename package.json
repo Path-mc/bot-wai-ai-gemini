@@ -1,0 +1,21 @@
+{
+  "name": "tesbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@whiskeysockets/baileys": "^6.7.8",
+    "dotenv": "^16.4.5",
+    "qrcode-terminal": "^0.12.0",
+    "velixs-md": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
