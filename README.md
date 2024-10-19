@@ -1,5 +1,5 @@
 halo perkenalkan nama saya cited, saya seorang pemula di dunia ini. kali ini saya akan membagikan bot wa dengan ai gemini
-sebelum masuk ke langkah penginstalan saya berterima kasih kepada Astro,Velixs-md, dan juga Replanting Tech
+sebelum masuk ke langkah penginstalan saya berterima kasih kepada para sepuh Astro, Velixs-md, dan juga Replanting Tech.
 baik langsung saja masuk ke tutorial memasangnya
 
 pertama, kalian harus download atau jika ingin ribet kalian bisa git clone 
